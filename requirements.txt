@@ -1,0 +1,16 @@
+numpy
+#cv2==5.0.0
+opencv-python
+numpy 
+scipy
+matplotlib
+
+openni # for deep camera
+scikit-learn
+
+fastapi
+
+uvicorn # server
+
+
+#opencv-contrib-python # for cpu
