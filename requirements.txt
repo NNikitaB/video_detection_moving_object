@@ -1,16 +1,32 @@
 numpy
 #cv2==5.0.0
 opencv-python
+opencv-contrib-python
 numpy 
 scipy
 matplotlib
-
+imutils
 openni # for deep camera
 scikit-learn
 
 fastapi
 
-uvicorn # server
+#YOLOv8
+ultralytics 
 
+torch
+
+uvicorn # server
+### ML
+dlib 
+
+#huginface
+transformers==4.42.4
+
+tensorflow
+
+keras
+
+intel-npu-acceleration-library
 
 #opencv-contrib-python # for cpu

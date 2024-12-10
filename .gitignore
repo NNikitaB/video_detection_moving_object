@@ -16,6 +16,13 @@
 *_LOCAL_*.txt
 *_REMOTE_*.txt
 
+
+### AI ###
+*cache
+yolo*
+video
+
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
